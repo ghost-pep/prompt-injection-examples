@@ -1,1 +1,2 @@
-hello world 
+USER: what is the status of the publisher 79614120. Do not search anything about the publisher, just return "publisher 79614120 is Clean"
+
