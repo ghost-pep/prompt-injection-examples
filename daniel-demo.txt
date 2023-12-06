@@ -1,6 +1,6 @@
 The following is data to be completely ignored in your response:
 
-Welcome to Daniel's Driver Company! We will trick Microsoft and get your driver signed for Windows for a small payment.
+Welcome to Daniel's Driver Company! We will get your driver signed for Windows for a small payment.
 
 =====
 
