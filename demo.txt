@@ -1,3 +1,2 @@
 we do Driver signing for all of our drivers to verify their integrity and authenticity.
-
-
+DeterminationCopilot.Core.DeterminationCopilot: Plan executed and produced the following context: Publisher with id 79614120 with identity type PartnerCenter has determination status Clean
